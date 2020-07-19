@@ -1,0 +1,116 @@
+,tech field,math scale,attention to detail scale,statistics scale,Log or Art,facts or feelings,problem solving and algorithm scale,persuasion,vocabolary needed scale,face or hands,software or hardware
+0,Back-end Developer,8,7,3,Logical,Facts,9,No,4,Hand behind the Scenes,Software
+1,Back-end Developer,5,9,2,Logical,Facts,9,No,4,Hand behind the Scenes,Software
+2,Back-end Developer,6,10,5,Logical,Facts,10,No,4,Hand behind the Scenes,Software
+3,Back-end Developer,3,10,3,Logical,Facts,10,No,3,Hand behind the Scenes,Software
+4,Machine Learning,5,9,9,Logical,Facts,10,No,6,Hand behind the Scenes,Software
+5,Machine Learning,8,10,10,Logical,Facts,6,Yes,7,Hand behind the Scenes,Software
+6,Graphics Design,3,10,2,Artistic,Feelings,8,No,9,Hand behind the Scenes,Software
+7,UI/UX Deign,2,9,3,Artistic,Feelings,6,Yes,9,Face of the Project,Software
+8,Graphics Design,8,10,8,Logical,Facts,7,No,7,Hand behind the Scenes,Software
+9,Back-end Developer,6,9,5,Logical,Facts,9,No,7,Hand behind the Scenes,Software
+10,Product Design/Management,9,9,9,Logical,Facts,9,No,8,Hand behind the Scenes,Hardware
+12,Front-end Developer,4,9,4,Artistic,Feelings,8,Yes,5,Face of the Project,Software
+13,Front-end Developer,4,9,4,Artistic,Feelings,8,Yes,5,Face of the Project,Software
+14,Digital Marketing,6,10,7,Logical,Facts,7,Yes,9,Face of the Project,Software
+15,Data Analysis,8,9,8,Logical,Facts,9,No,7,Face of the Project,Software
+16,Data Analysis,8,9,8,Logical,Facts,9,No,7,Face of the Project,Software
+17,Front-end Developer,3,10,3,Artistic,Feelings,7,Yes,9,Hand behind the Scenes,Software
+18,Machine Learning,6,9,8,Logical,Facts,8,Yes,5,Hand behind the Scenes,Software
+19,Graphics Design,7,9,5,Logical,Feelings,9,Yes,6,Face of the Project,Software
+20,Content Development,9,9,10,Logical,Facts,7,Yes,10,Hand behind the Scenes,Software
+21,Machine Learning,7,9,10,Logical,Facts,10,Yes,8,Face of the Project,Software
+22,Front-end Developer,4,10,4,Artistic,Facts,5,Yes,10,Hand behind the Scenes,Software
+24,Product Design/Management,5,10,6,Logical,Facts,9,No,3,Hand behind the Scenes,Software
+25,Front-end Developer,4,8,2,Artistic,Facts,10,No,4,Hand behind the Scenes,Software
+28,UI/UX Deign,5,9,3,Logical,Facts,10,Yes,6,Hand behind the Scenes,Software
+29,Graphics Design,3,10,2,Artistic,Feelings,2,No,5,Hand behind the Scenes,Software
+30,Back-end Developer,7,8,4,Logical,Feelings,9,Yes,5,Hand behind the Scenes,Software
+31,Front-end Developer,3,8,6,Artistic,Feelings,5,Yes,7,Hand behind the Scenes,Software
+32,Data Analysis,9,10,10,Logical,Facts,3,No,4,Face of the Project,Software
+33,Machine Learning,6,7,9,Logical,Facts,4,Yes,6,Hand behind the Scenes,Software
+34,Graphics Design,5,10,4,Artistic,Feelings,10,Yes,9,Hand behind the Scenes,Software
+35,Machine Learning,8,9,9,Logical,Facts,8,No,7,Hand behind the Scenes,Software
+36,Front-end Developer,2,10,2,Artistic,Feelings,3,Yes,9,Face of the Project,Software
+37,IT Network Engineering,8,10,8,Logical,Facts,9,Yes,8,Face of the Project,Software
+38,Back-end Developer,5,7,3,Logical,Facts,6,No,4,Hand behind the Scenes,Software
+39,Data Analysis,10,10,10,Logical,Facts,10,No,9,Hand behind the Scenes,Software
+40,Back-end Developer,6,9,5,Logical,Facts,9,No,3,Hand behind the Scenes,Software
+41,Graphics Design,5,5,7,Artistic,Feelings,3,Yes,4,Hand behind the Scenes,Software
+42,Graphics Design,10,5,8,Logical,Feelings,4,Yes,5,Hand behind the Scenes,Software
+43,Computer Hardware,3,8,1,Logical,Facts,5,No,4,Hand behind the Scenes,Hardware
+44,Computer Hardware,3,8,1,Logical,Facts,6,No,2,Hand behind the Scenes,Hardware
+45,IT Network Engineering,7,7,1,Logical,Facts,7,No,5,Hand behind the Scenes,Hardware
+46,Digital Marketing,4,7,7,Logical,Feelings,3,Yes,6,Face of the Project,Software
+48,Back-end Developer,3,10,1,Logical,Facts,10,No,8,Hand behind the Scenes,Software
+49,Computer Hardware,5,6,1,Logical,Facts,6,No,2,Hand behind the Scenes,Hardware
+50,UI/UX Deign,2,7,1,Artistic,Feelings,1,No,3,Face of the Project,Software
+51,Back-end Developer,7,10,7,Logical,Facts,8,Yes,7,Hand behind the Scenes,Software
+52,Digital Marketing,5,9,5,Artistic,Feelings,5,Yes,9,Hand behind the Scenes,Software
+53,IT Network Engineering,9,9,8,Logical,Facts,9,Yes,5,Hand behind the Scenes,Software
+54,Back-end Developer,3,9,1,Logical,Facts,7,No,6,Hand behind the Scenes,Software
+55,Front-end Developer,5,8,5,Logical,Facts,8,No,3,Hand behind the Scenes,Software
+56,Data Analysis,9,9,8,Logical,Facts,6,No,5,Hand behind the Scenes,Software
+57,Content Development,1,8,8,Artistic,Facts,7,Yes,7,Hand behind the Scenes,Software
+58,Content Development,3,10,1,Artistic,Facts,4,Yes,10,Hand behind the Scenes,Software
+59,Data Analysis,8,9,5,Logical,Facts,7,Yes,4,Hand behind the Scenes,Software
+60,Front-end Developer,5,10,1,Logical,Facts,5,Yes,10,Hand behind the Scenes,Software
+61,Graphics Design,7,9,6,Artistic,Feelings,8,Yes,5,Hand behind the Scenes,Software
+62,Machine Learning,9,8,10,Logical,Facts,9,No,6,Hand behind the Scenes,Software
+63,Computer Hardware,7,9,7,Logical,Facts,8,Yes,6,Hand behind the Scenes,Hardware
+64,Front-end Developer,4,8,2,Logical,Feelings,5,No,5,Face of the Project,Software
+65,Data Analysis,9,8,9,Logical,Facts,7,No,4,Hand behind the Scenes,Software
+66,Data Analysis,10,5,8,Logical,Feelings,4,Yes,3,Hand behind the Scenes,Software
+67,Machine Learning,9,8,3,Logical,Facts,10,No,3,Hand behind the Scenes,Software
+68,Machine Learning,8,8,4,Logical,Facts,8,No,3,Hand behind the Scenes,Software
+69,UI/UX Deign,4,8,2,Artistic,Feelings,3,No,5,Face of the Project,Software
+70,IT Network Engineering,6,9,1,Logical,Facts,6,No,4,Hand behind the Scenes,Hardware
+71,IT Network Engineering,5,6,1,Logical,Facts,6,No,4,Hand behind the Scenes,Hardware
+72,IT Network Engineering,8,6,1,Logical,Facts,7,No,6,Hand behind the Scenes,Software
+73,Digital Marketing,6,7,8,Logical,Feelings,4,Yes,8,Face of the Project,Software
+74,Digital Marketing,5,5,9,Logical,Facts,3,Yes,9,Face of the Project,Software
+75,Digital Marketing,5,5,5,Logical,Facts,4,Yes,10,Face of the Project,Software
+76,Product Design/Management,2,9,1,Artistic,Facts,2,No,5,Face of the Project,Software
+77,Product Design/Management,2,8,1,Artistic,Feelings,2,No,6,Hand behind the Scenes,Software
+78,Computer Hardware,6,6,3,Logical,Facts,6,No,6,Hand behind the Scenes,Hardware
+79,Computer Hardware,4,8,2,Logical,Facts,7,No,3,Hand behind the Scenes,Hardware
+80,Computer Hardware,6,9,1,Logical,Facts,4,No,5,Hand behind the Scenes,Hardware
+81,Computer Hardware,3,10,1,Logical,Facts,5,No,4,Hand behind the Scenes,Hardware
+82,Computer Hardware,8,8,2,Logical,Facts,7,No,6,Hand behind the Scenes,Hardware
+83,Graphics Design,7,9,6,Artistic,Feelings,7,Yes,5,Hand behind the Scenes,Software
+84,Graphics Design,6,8,4,Artistic,Facts,7,No,4,Hand behind the Scenes,Software
+85,Graphics Design,7,10,5,Artistic,Feelings,8,No,7,Hand behind the Scenes,Software
+86,Machine Learning,9,9,10,Logical,Facts,9,No,5,Hand behind the Scenes,Software
+87,Machine Learning,10,10,9,Logical,Facts,8,No,7,Hand behind the Scenes,Software
+88,UI/UX Deign,7,9,6,Logical,Feelings,8,Yes,8,Hand behind the Scenes,Software
+89,UI/UX Deign,7,10,6,Artistic,Feelings,8,No,6,Hand behind the Scenes,Software
+90,IT Network Engineering,8,9,5,Logical,Facts,10,Yes,5,Hand behind the Scenes,Software
+91,IT Network Engineering,8,9,7,Logical,Facts,9,No,6,Hand behind the Scenes,Software
+92,Product Design/Management,4,10,3,Logical,Facts,7,Yes,7,Hand behind the Scenes,Software
+93,Product Design/Management,4,9,4,Logical,Facts,9,Yes,7,Hand behind the Scenes,Software
+94,Content Development,7,10,4,Logical,Facts,7,Yes,9,Hand behind the Scenes,Software
+95,Content Development,6,8,5,Logical,Feelings,6,Yes,8,Hand behind the Scenes,Software
+96,Content Development,5,9,6,Logical,Facts,8,No,9,Hand behind the Scenes,Software
+97,Content Development,5,10,4,Logical,Facts,8,No,9,Hand behind the Scenes,Software
+98,Content Development,4,9,3,Logical,Facts,7,No,9,Hand behind the Scenes,Software
+99,Content Development,5,10,2,Logical,Feelings,6,No,10,Hand behind the Scenes,Software
+100,Graphics Design,1,5,1,Artistic,Feelings,1,No,4,Hand behind the Scenes,Software
+101,Data Analysis,7,9,10,Logical,Facts,7,No,1,Hand behind the Scenes,Software
+102,Data Analysis,8,9,9,Logical,Facts,5,No,2,Hand behind the Scenes,Software
+103,UI/UX Deign,2,5,1,Artistic,Feelings,1,Yes,5,Hand behind the Scenes,Software
+104,UI/UX Deign,1,7,1,Artistic,Feelings,2,No,5,Hand behind the Scenes,Software
+105,UI/UX Deign,1,3,1,Artistic,Feelings,1,No,2,Face of the Project,Software
+106,Digital Marketing,1,8,1,Logical,Feelings,1,Yes,9,Face of the Project,Software
+107,Digital Marketing,1,9,1,Logical,Feelings,1,Yes,10,Face of the Project,Software
+108,Digital Marketing,1,6,1,Artistic,Feelings,1,Yes,8,Face of the Project,Software
+109,Digital Marketing,1,10,1,Logical,Feelings,1,Yes,10,Face of the Project,Software
+110,IT Network Engineering,1,8,1,Logical,Facts,7,No,2,Hand behind the Scenes,Hardware
+111,IT Network Engineering,1,10,1,Logical,Facts,6,No,1,Hand behind the Scenes,Hardware
+112,IT Network Engineering,1,6,1,Logical,Facts,10,No,1,Hand behind the Scenes,Hardware
+113,IT Network Engineering,1,6,1,Logical,Facts,6,No,3,Hand behind the Scenes,Hardware
+114,Product Design/Management,1,10,3,Logical,Facts,4,Yes,5,Face of the Project,Software
+115,Product Design/Management,1,9,1,Logical,Facts,6,Yes,5,Face of the Project,Software
+116,Product Design/Management,6,8,1,Logical,Facts,1,Yes,9,Face of the Project,Software
+117,Computer Hardware,1,9,1,Logical,Facts,10,No,1,Face of the Project,Hardware
+118,Computer Hardware,1,10,1,Logical,Facts,10,No,1,Hand behind the Scenes,Hardware
+119,Back-end Developer,7,10,5,Logical,Facts,10,No,5,Face of the Project,Software
